@@ -1,0 +1,20 @@
+{
+  "name": "captain_duckay/imei",
+  "description": "Code to work with EMEI numbers",
+  "minimum-stability": "stable",
+  "license": "GPL-2.0-only",
+  "authors": [
+    {
+      "name": "Nicki Bo Otte",
+      "email": "duckay@live.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "\\": "src"
+    },
+    "psr-4": {
+      "\\": "src"
+    }
+  }
+}
