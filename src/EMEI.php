@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Structures\Utilities;
+namespace captainDuckay;
 
 use Exception;
 

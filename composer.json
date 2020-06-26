@@ -9,12 +9,15 @@
       "email": "duckay@live.com"
     }
   ],
+  "require": {
+    "php": "^7.4"
+  },
   "autoload": {
     "psr-0": {
-      "\\": "src"
+      "captainDuckay\\": "src"
     },
     "psr-4": {
-      "\\": "src"
+      "captainDuckay\\": "src"
     }
   }
 }
